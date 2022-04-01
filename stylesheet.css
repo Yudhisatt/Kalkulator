@@ -43,7 +43,11 @@ button {
     background-color: orange;
 }
 
-.number:hover, .decimal:hover, .percentage:hover, .all-clear:hover {
+.number:hover, .decimal:hover, .percentage:hover {
+    background-color:darkgray;
+}
+
+.all-clear:hover {
     background-color:darkgray;
 }
 
