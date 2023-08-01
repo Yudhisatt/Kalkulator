@@ -1,4 +1,4 @@
-const calculatorScreen = document.querySelector('.calculator-screen');
+/*Const calculatorScreen = document.querySelector('.calculator-screen');
 
 const updateScreen = (number) => {
     calculatorScreen.value = number   
@@ -96,3 +96,4 @@ inputDecimal = (dot) => {
     }
     currentNumber += dot
 }
+/*
